@@ -1,0 +1,25 @@
+{
+  "name": "@schornio/mongodb-create-connectionstring",
+  "version": "1.0.0",
+  "description": "Creates a MonogoDB connection string by predefined parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schornio/mongodb-create-connectionstring.git"
+  },
+  "keywords": [
+    "mongodb",
+    "connection",
+    "connectionstring",
+    "ui"
+  ],
+  "author": "Thomas Schorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schornio/mongodb-create-connectionstring/issues"
+  },
+  "homepage": "https://github.com/schornio/mongodb-create-connectionstring#readme"
+}

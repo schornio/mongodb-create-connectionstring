@@ -1,0 +1,25 @@
+{
+  "name": "mongodb-create-connectionstring",
+  "version": "1.0.0",
+  "authors": [
+    "Thomas Schorn <thomas@schorn.io>"
+  ],
+  "description": "Creates a MonogoDB connection string by predefined parameters",
+  "main": "index.html",
+  "keywords": [
+    "mongodb",
+    "connection",
+    "connectionstring"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
